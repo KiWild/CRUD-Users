@@ -1,2 +1,2 @@
 # CRUD-Users
-Simple PHP CRUD application to add, update, and delete users
+Simple PHP CRUD application to show, add, update, and delete users
