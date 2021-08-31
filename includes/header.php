@@ -12,6 +12,10 @@
     <!-- HEADER -->
     <div class="header">
         <div class="container">
-            Header
+            <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="users.php">Users</a></li>
+                <li><a href="add-users.php">Add Users</a></li>
+            </ul>
         </div>
     </div>
