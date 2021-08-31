@@ -21,6 +21,21 @@ body {
   color: #fff;
 }
 
+.header ul {
+  list-style: none;
+}
+
+.header ul li {
+  display: inline;
+  margin: 1%;
+}
+
+.header ul li a{
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 /* MAIN CONTENT */
 
 /* FOOTER */
