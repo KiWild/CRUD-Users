@@ -1,2 +1,2 @@
-# PHP-MySQL-CRUD
-HTML, CSS, PHP CRUD Application
+# CRUD-Users
+Simple PHP CRUD application to add, update, and delete users
