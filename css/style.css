@@ -7,6 +7,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 1%;
+}
+
 .container {
   padding: 1%;
   width: 80%;
@@ -37,6 +46,34 @@ body {
 }
 
 /* MAIN CONTENT */
+
+/* TABLES */
+
+.tbl-usr-lst{
+  width: 100%;
+}
+
+.tbl-usr-lst tr th{
+  border-bottom: 1px solid #000;
+  padding: 1%;
+  text-align: left;
+}
+
+.tbl-usr-lst tr td{
+  border-bottom: 1px dotted #000;
+  padding: 1%;
+  text-align: left;
+}
+
+.tbl-usr-lst tr:last-child td{
+  border-bottom: 0;
+}
+
+/* BUTTONS */
+
+.btn-add-usr{
+
+}
 
 /* FOOTER */
 
