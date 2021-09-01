@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php include('includes/header.php'); ?>
 
 <!-- MAIN CONTENT -->
@@ -50,4 +51,26 @@
     </div>
 </div>
 
+=======
+<?php include('includes/header.php'); ?>
+
+<!-- MAIN CONTENT -->
+<div class="main-content">
+    <div class="container">
+        <h1>Users</h1>
+
+        <table>
+            <th>id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Username</th>
+            <th>Phone Number</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </table>
+
+    </div>
+</div>
+
+>>>>>>> e91699d6b386031c5468ec167e0a1ec142fb4e1b
 <?php include('includes/footer.php'); ?>
