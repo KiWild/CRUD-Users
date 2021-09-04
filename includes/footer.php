@@ -1,7 +1,7 @@
     <!-- FOOTER -->
     <div class="footer">
         <div class="container">
-            Footer
+            <p>&copy; <?php echo date('Y'); ?> | Ki Wild</p>
         </div>
     </div>
     
